@@ -1,0 +1,2 @@
+# NewsMode
+MVP_DEMO
